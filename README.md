@@ -1,6 +1,8 @@
 # sap-sd-o2c
 # SAP SD Capstone Project – Order-to-Cash (O2C)
 
+ **ACADEMIC SUBJECT REPO** 
+
 This project demonstrates the complete **Order-to-Cash (O2C)** business cycle using the SAP Sales and Distribution (SD) module. It covers the full flow from customer creation to payment processing.
 
 ---
